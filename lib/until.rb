@@ -1,7 +1,7 @@
-def using_until(phrase)
+def using_until
   counter = 0
-  until phrase == 10
-    puts phrase
+  until counter == 10
+    puts "Wingardium Leviosa"
     counter += 1
   end
 end
