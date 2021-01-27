@@ -4,4 +4,5 @@ def using_until(phrase)
   until phrase == 10
     puts phrase
     counter += 1
+  end
 end
